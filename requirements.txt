@@ -1,0 +1,2 @@
+pynest-api==0.2.3
+aiomysql==0.2.0
