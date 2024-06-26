@@ -1,6 +1,3 @@
-# Atlas
-Proyecto Atlas
-
 # PyNest service
 
 This is a template for a PyNest service.
